@@ -12,6 +12,11 @@ public class Bird extends Pet
         this.species = species;
     }//end full constructor which call super
 
+    public String Speak()
+    {
+        return "The Universe is a simulation";
+    }
+
     public String toString()
     {
         String output = super.toString() + "\nColor: " + color;
