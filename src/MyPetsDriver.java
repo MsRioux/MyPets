@@ -12,6 +12,9 @@ public class MyPetsDriver
         System.out.println("Mochi says: " + mochi.Speak());
         System.out.println("Donald says: " + donald.Speak());
 
+        //Check unit conversion
+        System.out.println("Rex's weight in pounds is " + rex.AmericanFreedomUnits() + ".\n");
+
         //Testing Pets
 //        System.out.println(rex);
 //        System.out.println(mochi);
