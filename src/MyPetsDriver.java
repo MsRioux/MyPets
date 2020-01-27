@@ -16,7 +16,7 @@ public class MyPetsDriver
         System.out.println("Rex's weight in pounds is " + rex.AmericanFreedomUnits() + ".\n");
 
         //Testing Pets
-//        System.out.println(rex);
+        System.out.println(rex);
 //        System.out.println(mochi);
 //        System.out.println(donald);
     }
