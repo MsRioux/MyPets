@@ -31,7 +31,7 @@ public abstract class Pet
     public double AmericanFreedomUnits()
     {
        return weight *2.205;
-    }//end method to convert weight value into pounds
+    }//end method to convert weight value into pounds 
 
     //toString method
     public String toString()
